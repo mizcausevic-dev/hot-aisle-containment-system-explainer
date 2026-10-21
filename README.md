@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/hot-aisle-containment-system-explainer/
 
+Repository: https://github.com/mizcausevic-dev/hot-aisle-containment-system-explainer
+
 ## What this is
 
 An interactive anatomy plate for Hot-Aisle Containment System. Play, scrub, or jump the five stages. The same frame always draws the same picture.
